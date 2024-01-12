@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*
+body {
+    background-color: aquamarine;
+}
+*/
+
+.frame {
+    position: relative;
+    margin: 0 auto;
+}
+
+.window {
+    height: 300px;
+    width: 500px;
+    margin: 100px auto;
+    background-color: skyblue;
+    border: 10px solid grey;
+    box-shadow: 10px 10px 5px rgb(182, 180, 180);
+}
+
+.desk {
+    height: 150px;
+    width: auto;
+    background-color: brown;
+}
